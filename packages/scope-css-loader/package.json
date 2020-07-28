@@ -6,7 +6,9 @@
   "scripts": {
     "test": "test"
   },
-  "registry": "https://registry.npmjs.org",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org",
+  },
   "repository": {
     "type": "http",
     "url": "https://github.com/NealST/jsx-style-scoped.git"

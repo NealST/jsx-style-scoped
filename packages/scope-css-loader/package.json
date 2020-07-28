@@ -1,13 +1,13 @@
 {
   "name": "scope-css-loader",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "jsx样式作用域css-loader",
   "main": "index.js",
   "scripts": {
     "test": "test"
   },
   "publishConfig": {
-    "registry": "https://registry.npmjs.org"
+    "registry": "https://registry.npmjs.org/"
   },
   "repository": {
     "type": "http",

@@ -1,6 +1,6 @@
 {
   "name": "scope-jsx-loader",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "样式作用域的jsx loader",
   "main": "index.js",
   "scripts": {

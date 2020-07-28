@@ -6,6 +6,7 @@
   "scripts": {
     "test": "test"
   },
+  "registry": "https://registry.npmjs.org",
   "repository": {
     "type": "http",
     "url": "https://github.com/NealST/jsx-style-scoped.git"
@@ -19,5 +20,6 @@
     "md5": "^2.2.1"
   },
   "author": "NealST",
-  "license": "ISC"
+  "license": "ISC",
+  "gitHead": "6957ea0fbdae21721385704d05a460c0d35229bd"
 }

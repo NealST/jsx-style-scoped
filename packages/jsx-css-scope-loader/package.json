@@ -1,0 +1,23 @@
+{
+    "name": "scope-jsx-loader",
+    "version": "1.0.0",
+    "description": "样式作用域的jsx loader",
+    "main": "index.js",
+    "scripts": {
+      "test": "test"
+    },
+    "repository": {
+      "type": "http",
+      "url": "https://github.com/NealST/jsx-style-scoped.git"
+    },
+    "keywords": [
+      "jsx",
+      "css",
+      "scoped"
+    ],
+    "dependencies": {
+      "md5": "^2.2.1"
+    },
+    "author": "NealST",
+    "license": "ISC"
+}

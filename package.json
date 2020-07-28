@@ -1,0 +1,20 @@
+{
+  "name": "jsx-style-scoped",
+  "version": "1.0.0",
+  "description": "jsx样式作用域解决方案",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "http",
+    "url": "https://github.com/NealST/jsx-style-scoped.git"
+  },
+  "keywords": [
+    "jsx",
+    "css",
+    "scoped"
+  ],
+  "author": "NealST",
+  "license": "ISC"
+}
